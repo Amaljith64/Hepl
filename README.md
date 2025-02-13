@@ -37,10 +37,3 @@
 1. Limited ui feature
 
 
-
-1. Implement caching
-2. Add pagination
-3. Implemented debouncing
-4. indexing 
-5. React.memo and useMemo
-6. implement Ratelimiting
